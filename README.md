@@ -1,5 +1,7 @@
 # DesktopRotation
 
+<p align="center"><img src="docs/icon.png" width="128" alt="DesktopRotation icon"></p>
+
 macOS 菜单栏小工具：点一下，把主显示器的旋转在「标准」和「90°」之间切换（等同于 系统设置 → 显示器 → 旋转）。只驻留在顶部菜单栏，不出现在 Dock。
 
 - **左键点击图标**：旋转 / 恢复
